@@ -1,7 +1,13 @@
+/* fonts  */
 @font-face {
     font-family: poppins;
     src: url(./fonts/Poppins-Regular.ttf);
 }
-h1 {
-    font-family: poppins;
+
+/* variables  */
+:root {
+    --primary: 
+    --secondary: 
 }
+
+/* Navbar  */
