@@ -1,13 +1,43 @@
 /* fonts  */
 @font-face {
-    font-family: poppins;
-    src: url(./fonts/Poppins-Regular.ttf);
+    font-family: Roboto;
+    src: url(./fonts/Roboto-VariableFont_wdth\,wght.ttf);
+
 }
 
 /* variables  */
 :root {
     --primary: 
+
     --secondary: 
 }
 
+/* body  */
+body {
+    background: linear-gradient(90deg, #FFEFBA 0%, #FFFFFF 100%);
+}
+
+
 /* Navbar  */
+.btn-g {
+    background: linear-gradient(90deg, #FFE259 0%, #FFA751 100%);
+}
+.bg-color {
+    
+}
+
+/* Hero section  */
+.hidden {
+    overflow: hidden;
+}
+.roboto {
+    font-family: Roboto !important;
+    text-transform: capitalize !important;
+}
+.btn-multi {
+    background: linear-gradient(90deg, #FF4E50 0%, #F9D423 100%);
+
+}
+.font-change {
+    font-family: Roboto;
+}
